@@ -1,0 +1,15 @@
+
+Traza a la direcci¢n google.com [172.217.30.206]
+sobre un m ximo de 30 saltos:
+
+  1    <1 ms    <1 ms    <1 ms  10.20.150.1 
+  2    <1 ms    <1 ms    <1 ms  10.20.3.5 
+  3    <1 ms    <1 ms    <1 ms  router.udistrital.edu.co [200.69.103.253] 
+  4    <1 ms    <1 ms    <1 ms  static-190-27-216-17.static.etb.net.co [190.27.216.17] 
+  5     5 ms     3 ms     3 ms  10.5.2.22 
+  6     1 ms     1 ms     1 ms  72.14.218.226 
+  7     2 ms     2 ms     1 ms  108.170.253.209 
+  8     2 ms     2 ms     2 ms  216.239.56.235 
+  9     1 ms     1 ms     1 ms  bog02s08-in-f14.1e100.net [172.217.30.206] 
+
+Traza completa.

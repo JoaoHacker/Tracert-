@@ -1,0 +1,15 @@
+
+Traza a la direcci¢n Google.com [172.217.28.110]
+sobre un m ximo de 30 saltos:
+
+  1   114 ms     5 ms     1 ms  10.21.0.1 
+  2     7 ms     4 ms     2 ms  10.20.3.14 
+  3   100 ms    12 ms     1 ms  200.69.103.229 
+  4     2 ms    10 ms     1 ms  static-190-27-216-17.static.etb.net.co [190.27.216.17] 
+  5   111 ms   197 ms    78 ms  10.5.2.22 
+  6     6 ms     7 ms     7 ms  72.14.218.226 
+  7    18 ms     6 ms    19 ms  108.170.253.209 
+  8    39 ms    35 ms     4 ms  74.125.252.61 
+  9    17 ms    20 ms    18 ms  bog02s07-in-f14.1e100.net [172.217.28.110] 
+
+Traza completa.

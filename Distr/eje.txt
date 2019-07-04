@@ -1,0 +1,14 @@
+
+Traza a la direcci¢n google.com [172.217.28.110]
+sobre un m ximo de 30 saltos:
+
+  1     1 ms     1 ms     1 ms  192.168.0.1 
+  2    34 ms    35 ms    35 ms  10.144.181.24 
+  3    35 ms    36 ms    42 ms  10.145.205.20 
+  4    38 ms    35 ms    39 ms  10.5.4.42 
+  5    46 ms    39 ms    36 ms  72.14.218.226 
+  6    36 ms    36 ms    35 ms  108.170.253.193 
+  7    38 ms    42 ms    36 ms  216.239.56.245 
+  8    35 ms    37 ms    35 ms  bog02s07-in-f14.1e100.net [172.217.28.110] 
+
+Traza completa.
